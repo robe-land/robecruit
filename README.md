@@ -1,5 +1,17 @@
 # Robecruit
 
+# Robecruit
+
+Robecruit is a job-search dashboard project for organizing opportunities and
+applications, with a React frontend and a Python API.
+
+> Maintained by [Robe Land](https://github.com/robe-land).
+>
+> Original work is licensed under [LICENSE](LICENSE). Third-party
+> materials retain their applicable licenses and copyright notices; see
+> the notices accompanying those materials and the repository's
+> third-party attribution index, where applicable.
+
 ## Local PostgreSQL
 
 Copy `.env.example` to `.env` and adjust the development-only values if needed.
